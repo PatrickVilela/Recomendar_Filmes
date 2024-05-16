@@ -20,7 +20,7 @@ main.py: Arquivo principal do programa, onde exemplos de uso são demonstrados.
 
 ## Exemplo de Uso
 
-´´´
+```
 # Criando alguns filmes
 movie1 = Movie("Inception", "Sci-Fi")
 movie2 = Movie("The Matrix", "Sci-Fi")
